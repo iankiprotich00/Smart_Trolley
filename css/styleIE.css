@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+html *{
+	font-family: 'Poppins', sans-serif;
+}
+
+.bmenu li a{
+	color: #fff;
+}
+.bmenu:hover li a{
+	color:#fff;
+}
+.bmenu li a:hover{
+	color: #fff;
+	padding-left: 10px;
+}

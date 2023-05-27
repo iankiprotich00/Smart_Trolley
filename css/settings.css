@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(supermarket.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(supermarket.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rcontent h1 span {
+    color: white;
+}
+
+#contentbox {
+    background-color: transparent;
+    color: white;
+  }

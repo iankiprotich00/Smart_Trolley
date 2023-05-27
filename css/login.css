@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(tree.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(tree.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form table tr td {
+    color: white;
+  }
+  
+  form table tr td:first-child {
+    color: white;
+  }
+  
